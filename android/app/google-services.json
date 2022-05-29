@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018648146203",
+    "project_id": "my-e-commercial-app-70ce0",
+    "storage_bucket": "my-e-commercial-app-70ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018648146203:android:5724aa30089e7f1bb823be",
+        "android_client_info": {
+          "package_name": "com.example.sales_oder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018648146203-u9q6oo4cgdgutr6ahpcl7e3rmo2cua80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VxHFOgor3AZ_XviT_C4u6pORYwEn3ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018648146203-u9q6oo4cgdgutr6ahpcl7e3rmo2cua80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
